@@ -1,5 +1,5 @@
 - 👋 Hello! I'm Lecer (he/him)
-- 💼 Developer of Paradise-City Minecraft Server
+- 💼 Developer of Dumble Land Iranian Minecraft Server
 - 🕹️ Favorite games: I enjoy playing `Minecraft` and `osu!`.
 - 💔 I rarely accept private-projects
 
