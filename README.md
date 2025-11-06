@@ -1,4 +1,4 @@
-- 👋 Hello! I'm Lecer (he/him)
+- 👋 Hello! I'm Arshia
 - 💼 Developer of Dumble Land Minecraft Server
 - 🕹️ I enjoy playing `osu!` and listening to music
 - 💔 I rarely accept private-projects
