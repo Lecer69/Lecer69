@@ -4,8 +4,9 @@
 - 💔 I don't accept any projects for now
 
 ## My cool repositories
-- [dots-hyprland](https://github.com/Lecer69/dots-hyprland/) — Dots config for my hyprland rice
-- [wl-gammactl-rust](https://github.com/Lecer69/wl-gammactl-rust/) — Change contrast, brightness, gamma & saturation on Hyprland
+- [dots-hyprland](https://github.com/Lecer69/dots-hyprland) — Dots config for my hyprland rice
+- [LSSH](https://github.com/Lecer69/LSSH) — Simple SSH server manager for your terminal
+- [wl-gammactl-rust](https://github.com/Lecer69/wl-gammactl-rust) — Change contrast, brightness, gamma & saturation on Hyprland
 
 ## GitHub Stats
 <p align="center">
